@@ -54,14 +54,22 @@
 		47C519141D203436001A8629 /* SwiftCalculator */ = {
 			isa = PBXGroup;
 			children = (
-				47C519151D203436001A8629 /* AppDelegate.swift */,
 				47C519171D203436001A8629 /* ViewController.swift */,
 				47C519191D203436001A8629 /* Main.storyboard */,
+				47C519271D20351C001A8629 /* New Group */,
+			);
+			path = SwiftCalculator;
+			sourceTree = "<group>";
+		};
+		47C519271D20351C001A8629 /* New Group */ = {
+			isa = PBXGroup;
+			children = (
+				47C519151D203436001A8629 /* AppDelegate.swift */,
 				47C5191C1D203436001A8629 /* Assets.xcassets */,
 				47C5191E1D203436001A8629 /* LaunchScreen.storyboard */,
 				47C519211D203436001A8629 /* Info.plist */,
 			);
-			path = SwiftCalculator;
+			name = "New Group";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
